@@ -6,6 +6,6 @@ def detail():
 	return 'detail info'
 
 
-
+b = 2
 
 
